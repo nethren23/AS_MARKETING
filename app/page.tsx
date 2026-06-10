@@ -66,7 +66,9 @@ export default function Home() {
             <div className={styles.footerCol}>
               <a
                 className={styles.socialLink}
-                href="#"
+                href="https://www.linkedin.com/company/allocate-space/posts/?feedView=all"
+                target="_blank"
+                rel="noopener noreferrer"
                 aria-label="Allocate Space on LinkedIn"
               >
                 <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
